@@ -1,0 +1,204 @@
+1. This is a string
+2. That is also a string
+3. This is an illusion
+4. THIS IS LOUDER Than you
+that isn't thus
+bob this is bob
+bob bob_ ralph_ bobbobbobbybobbob
+ababababab
+6. tHiS    iS    CoFu SEd
+777. THIS IS 100%-THE-BEST!!!
+8888. this_is_a_fiiile.py
+hidden bob
+
+===
+
+[Tt]ha[tn]
+
+===
+
+CH4 (Methane)
+H2O (Water)
+HCl (Hydrochloric Acid)
+C3H8 (Propane)
+ClF3 (Chlorine trifluoride)
+Cl2O7 (Dichlorine heptoxide)
+
+===
+
+<em>Hello World</em>
+<h1>Hello world</h1>
+<p>Hello world</p>
+
+===
+
+Celtics:
+Record: 12-2, 1st in NBA Eastern Conference
+Last Game: W 95-94 vs. TOR
+Next Game: Tuesday, Nov. 14 at BRK
+Coach: Brad Stevens (12-2)
+Executive: Danny Ainge
+PTS/G: 102.2 (24th of 30) Opp PTS/G: 94.0 (1st of 30)
+SRS: 7.38 (3rd of 30) Pace: 96.4 (26th of 30)
+Off Rtg: 106.0 (17th of 30) Def Rtg: 97.5 (1st of 30)
+
+Hawks:
+Record: 2-11, 15th in NBA Eastern Conference
+Last Game: L 94-113 at WAS
+Next Game: Monday, Nov. 13 at NOP
+Coach: Mike Budenholzer (2-11)
+Executive: Travis Schlenk
+PTS/G: 102.5 (23rd of 30) Opp PTS/G: 110.8 (26th of 30)
+SRS: -8.59 (27th of 30) Pace: 100.0 (9th of 30)
+Off Rtg: 102.4 (25th of 30) Def Rtg: 110.8 (27th of 30)
+
+Spurs:
+Record: 8-5, 3rd in NBA Western Conference
+Last Game: W 133-94 vs. CHI
+Next Game: Tuesday, Nov. 14 at DAL
+Coach: Gregg Popovich (8-5)
+Executive: R.C. Buford
+PTS/G: 103.0 (22nd of 30) Opp PTS/G: 99.6 (5th of 30)
+SRS: 3.04 (9th of 30) Pace: 96.4 (27th of 30)
+Off Rtg: 106.9 (16th of 30) Def Rtg: 103.4 (6th of 30)
+
+Knicks:
+Record: 7-5, 4th in NBA Eastern Conference
+Last Game: W 118-91 vs. SAC
+Next Game: Monday, Nov. 13 vs. CLE
+Coach: Jeff Hornacek (7-5)
+Executive: Steve Mills
+PTS/G: 106.4 (16th of 30) Opp PTS/G: 105.0 (13th of 30)
+SRS: 1.12 (14th of 30) Pace: 96.5 (25th of 30)
+Off Rtg: 110.2 (6th of 30) Def Rtg: 108.8 (21st of 30)
+
+Bulls:
+Record: 2-9, 14th in NBA Eastern Conference
+Last Game: L 94-133 at SAS
+Next Game: Wednesday, Nov. 15 at OKC
+Coach: Fred Hoiberg (2-9)
+Executive: Gar Forman
+PTS/G: 93.6 (30th of 30) Opp PTS/G: 103.9 (10th of 30)
+SRS: -9.69 (29th of 30) Pace: 96.1 (29th of 30)
+Off Rtg: 96.6 (30th of 30) Def Rtg: 107.2 (19th of 30)
+
+===
+
+Valid:
+djI38D55
+fjd3IR9
+4fdg5Fj3
+123abcABC
+ABC123abc
+Password123
+
+Invalid:
+ghdfj32
+DSJKHD23
+dsF43
+DHSJdhjsU
+fjd3IR9.;
+fjd3  IR9
+a2.d412
+JHD5FJ53
+!fdjn345
+jfkdfj3j
+123
+abc
+
+===
+
+Six alphanumeric characters
+^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)\w{6,}$
+
+===
+
+nba_data = """Celtics:
+Record: 12-2, 1st in NBA Eastern Conference
+Last Game: W 95-94 vs. TOR
+Next Game: Tuesday, Nov. 14 at BRK
+Coach: Brad Stevens (12-2)
+Executive: Danny Ainge
+PTS/G: 102.2 (24th of 30) Opp PTS/G: 94.0 (1st of 30)
+SRS: 7.38 (3rd of 30) Pace: 96.4 (26th of 30)
+Off Rtg: 106.0 (17th of 30) Def Rtg: 97.5 (1st of 30)
+
+Hawks:
+Record: 2-11, 15th in NBA Eastern Conference
+Last Game: L 94-113 at WAS
+Next Game: Monday, Nov. 13 at NOP
+Coach: Mike Budenholzer (2-11)
+Executive: Travis Schlenk
+PTS/G: 102.5 (23rd of 30) Opp PTS/G: 110.8 (26th of 30)
+SRS: -8.59 (27th of 30) Pace: 100.0 (9th of 30)
+Off Rtg: 102.4 (25th of 30) Def Rtg: 110.8 (27th of 30)
+
+Spurs:
+Record: 8-5, 3rd in NBA Western Conference
+Last Game: W 133-94 vs. CHI
+Next Game: Tuesday, Nov. 14 at DAL
+Coach: Gregg Popovich (8-5)
+Executive: R.C. Buford
+PTS/G: 103.0 (22nd of 30) Opp PTS/G: 99.6 (5th of 30)
+SRS: 3.04 (9th of 30) Pace: 96.4 (27th of 30)
+Off Rtg: 106.9 (16th of 30) Def Rtg: 103.4 (6th of 30)
+
+Knicks:
+Record: 7-5, 4th in NBA Eastern Conference
+Last Game: W 118-91 vs. SAC
+Next Game: Monday, Nov. 13 vs. CLE
+Coach: Jeff Hornacek (7-5)
+Executive: Steve Mills
+PTS/G: 106.4 (16th of 30) Opp PTS/G: 105.0 (13th of 30)
+SRS: 1.12 (14th of 30) Pace: 96.5 (25th of 30)
+Off Rtg: 110.2 (6th of 30) Def Rtg: 108.8 (21st of 30)
+
+Bulls:
+Record: 2-9, 14th in NBA Eastern Conference
+Last Game: L 94-133 at SAS
+Next Game: Wednesday, Nov. 15 at OKC
+Coach: Fred Hoiberg (2-9)
+Executive: Gar Forman
+PTS/G: 93.6 (30th of 30) Opp PTS/G: 103.9 (10th of 30)
+SRS: -9.69 (29th of 30) Pace: 96.1 (29th of 30)
+Off Rtg: 96.6 (30th of 30) Def Rtg: 107.2 (19th of 30)"""
+
+===
+
+m = re.search('\d', nba_data)
+if m:
+    print(m.group())
+else:
+    print('No match')
+
+===
+
+m = re.search('Coach: (.+) \(', nba_data)
+if m:
+    print(m.group(1))
+else:
+    print('No match')
+
+===
+
+re.findall('Coach: (.+) \(', nba_data)
+
+===
+
+'https://google.com?search=foobar'
+
+===
+
+re.sub(r'[-_][A-z]', lambda m: m.group()[-1].upper(), string.lower()
+
+===
+
+df = pd.read_csv('train.csv')
+df['Name'].str.extract(', ([^.]+)\.')
+df['Title'] = df['Name'].str.extract(', ([^.]+)\.', expand=False)
+df[['Title', 'Survived']].groupby('Title').mean()
+df.loc[df['Name'].str.contains('Rev'), :]
+
+===
+
+
